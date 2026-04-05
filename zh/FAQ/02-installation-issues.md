@@ -39,7 +39,7 @@
 
 - 仍失败的话，您可以选择删除旧版本，直接下载最新版本压缩包使用。
 
-### Mirror酱是什么
+### [Mirror酱](https://mirrorchyan.com/zh/get-start?rid=MFAAvalonia%5E&source=mfaa-software)是什么
 
 - `Mirror酱`是一个第三方应用分发平台，让开源应用的更新更简单。用户付费使用，收益与开发者共享。
 - `MaaYuan`官方合作伙伴。
